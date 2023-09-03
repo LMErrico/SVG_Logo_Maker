@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-The link to the walkthrough video is 
+The link to the walkthrough video is https://drive.google.com/file/d/1MlwssAAUl8A9T0EGI_inxf3N-dr0qHBP/view
 
 The command-line application dynamically generates a logo from a user's input.
 
